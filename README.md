@@ -1,7 +1,7 @@
 # LiteFlowNet-for-Video
 ====================
 
-This script help you to run LiteFlowNet for video instead of images. The code is for just research purposes.
+This script will help you to run LiteFlowNet for video instead of images. The code is for just research purposes.
 To run this code first compile LiteFlowNet: https://github.com/twhui/LiteFlowNet 
 Then you need to use the modified deploy.prototxt
 
